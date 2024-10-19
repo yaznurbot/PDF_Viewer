@@ -1,0 +1,36 @@
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe.config
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\bin\Debug\PDF-incom.pdb
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.AssemblyReference.cache
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Form1.resources
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Properties.Resources.resources
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.GenerateResource.cache
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.CoreCompileInputs.cache
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF-incom.exe
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\obj\Debug\PDF-incom.pdb
+C:\Users\mirzo\source\repos\PDF-incom\PDF-incom\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe.config
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\bin\Debug\PDF-incom.pdb
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.AssemblyReference.cache
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Form1.resources
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Properties.Resources.resources
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.GenerateResource.cache
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.CoreCompileInputs.cache
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF-incom.exe
+C:\Users\Artem.Mirzoyan\Desktop\PDF-incom\PDF-incom\obj\Debug\PDF-incom.pdb
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe.config
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\bin\Debug\PDF-incom.exe
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\bin\Debug\PDF-incom.pdb
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.AssemblyReference.cache
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Properties.Resources.resources
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.GenerateResource.cache
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF-incom.csproj.CoreCompileInputs.cache
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF-incom.exe
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF-incom.pdb
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Main_Form.resources
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Reports.resources
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Forms.Information.resources
+C:\Users\Yaznur.sadykov\Desktop\Дополнительные батники СИКН 805\печать архивного документа через MasterSCADA\PDF-incom\PDF-incom\obj\Debug\PDF_incom.Forms.Supports.resources
